@@ -1,0 +1,14 @@
+version: 1
+
+pipelines:
+  default:
+    - step:
+        name: Build
+        script:
+          - echo "Building the project..."
+          - # Add build commands here
+    - step:
+        name: Test
+        script:
+          - echo "Running tests..."
+          - # Add test commands here
