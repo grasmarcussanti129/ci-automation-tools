@@ -15,7 +15,7 @@ const runCommand = (command) => {
 };
 
 const commands = [
-    'echo "This is the CI tool!"',
+    `echo "This is the CI tool!"`,
     'ls -l',
 ];
 
