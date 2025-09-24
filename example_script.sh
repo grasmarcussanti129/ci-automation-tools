@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo "This is the CI tool!"
+echo "This is the Continuous Integration (CI) tool!"
 ls -l
